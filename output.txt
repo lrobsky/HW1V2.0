@@ -1,0 +1,42 @@
+Cpu 1 details:
+Cpu clockRate: 2.4
+Cpu manufacturer: Intel
+Cpu year: 2021
+
+Computer 2 details:
+Cpu clockRate: 3.8
+Cpu manufacturer: AMD
+Cpu year: 2019
+Computer manufacturer: HP
+Computer year: 2020
+Computer color: Red
+Computer is laptop: True
+
+
+Manufacturer's name length is too long
+
+
+Color string length is too long
+
+
+Store's name length is too long
+~
+There are 2 computers in the store. The computers:
+Computer 1
+Cpu clockRate: 3.8
+Cpu manufacturer: AMD
+Cpu year: 2019
+Computer manufacturer: HP
+Computer year: 2020
+Computer color: Red
+Computer is laptop: True
+
+Computer 2
+Cpu clockRate: 2.4
+Cpu manufacturer: Intel
+Cpu year: 2021
+Computer manufacturer: Apple
+Computer year: 2022
+Computer color: Silver
+Computer is laptop: False
+
